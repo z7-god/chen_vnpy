@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# CTP credentials and account-specific settings
+accounts/*/connect_ctp.json
+accounts/*/cta_strategy_setting.json
+accounts/*/cta_strategy_data.json
+accounts/*/vt_setting.json
+
+# VnTrader local files and databases
+.vntrader/
+*.db
+*.con
+
+# Logs and temp files
+logs/
+temp/
+*.log
+
+# Environments
+.venv/
+env/
+venv/
+ENV/

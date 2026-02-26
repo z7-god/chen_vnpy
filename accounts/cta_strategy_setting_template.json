@@ -1,0 +1,10 @@
+{
+    "double_ma": {
+        "class_name": "DoubleMaStrategy",
+        "vt_symbol": "rb2405.SHFE",
+        "setting": {
+            "fast_window": 10,
+            "slow_window": 20
+        }
+    }
+}
